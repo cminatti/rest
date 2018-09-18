@@ -1,7 +1,7 @@
 {
-    "name": "positivezero/rest",
+    "name": "cminatti/rest",
     "type": "library",
-    "description": "The REST PHP client",
+    "description": "The REST PHP client. Fork of positivezero/rest",
     "keywords": ["rest", "client", "php", "library"],
     "homepage": "https://github.com/positivezero/rest",
     "license": ["BSD 3-Clause"],
